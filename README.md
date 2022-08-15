@@ -1,5 +1,5 @@
 # Covid-19-system-in-Malaysia
-This will be a simulation system for counting the cases in Malaysia
+This will be a simple simulation system for counting the cases in Malaysia
 
 
 The coding can be change at the states using for loops if we want to use other countries . 
